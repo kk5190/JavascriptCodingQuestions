@@ -1,5 +1,7 @@
 # Counter
 
+<img src = "https://img.shields.io/static/v1?label=Difficulty&message=Easy&color=brightgreen" />
+
 Make the text within the button display the number of times the button has been clicked.
 
 ```htmls

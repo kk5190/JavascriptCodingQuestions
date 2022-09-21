@@ -1,5 +1,7 @@
 # Flatten an Array
 
+<img src = "https://img.shields.io/static/v1?label=Difficulty&message=Medium&color=orange" />
+
 Implement a function flatten, that flattens arrays with arbitrary levels of nesting, and recursively concatenates all arrays within it into an array containing only a single level.
 
 ## Examples
